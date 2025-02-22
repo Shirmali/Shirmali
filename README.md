@@ -5,7 +5,7 @@
 LinkedIn: https://www.linkedin.com/in/shirley-mali-a5449019b/
 Mail: shirleymali95@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: The soul wants offensive, the mind could die for defensive
+- ⚡ Fun fact: The mind wants offensive, the soul could die for defensive
 
 <!---
 Shirmali/Shirmali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
