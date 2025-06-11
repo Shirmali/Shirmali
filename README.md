@@ -11,10 +11,6 @@
 
 | Skill | Associated Project |
 |-------|--------------------|
-| NSW Government (ICT Policy and Service Design) | [NSW Government](#) |
-| PowerShell (Scripting and Automation) | [PowerShell For Security](#) |
-| Advanced Phishing and MITM Using SET & Ettercap | [Credential Harvesting Via Site Cloning And MITM](#) |
-| Honeypot (Attack, Log Analysis, Virtualization) | [Cowrie Honeypot Project](#) |
 | Malware Attack (Respond, Analyze, Mitigate, Document) | [Telstra Cybersecurity Job Simulation](#) |
 | Phishing (Design, Interpret, Train) | [Mastercard Cybersecurity Job Simulation](#) |
 | Ransomware (Zero-Day, Recover Encrypted Files) | [AIG Cybersecurity Job Simulation](https://github.com/Shirmali/Zero-Day-Exploit-Bypassing-Ransomware-AIG/blob/main/README.md) |
