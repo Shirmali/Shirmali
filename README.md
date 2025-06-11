@@ -1,7 +1,7 @@
 <h1> 👋 Hi, I’m Shirley Mali</h1>
 <p>She/Her</p>
 <h2>- 📫 How to reach me:</h2>
-[LinkedIn] (https://www.linkedin.com/in/shirley-mali-a5449019b/)
+[LinkedIn](https://www.linkedin.com/in/shirley-mali-a5449019b/)
 Email: shirleymali95@gmail.com 
 
 <h3> Objectives</h3>
