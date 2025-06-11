@@ -30,7 +30,7 @@ I'm committed to **continuous learning** and building solutions that protect peo
 | Investigation (Social & Digital) | [ANZ Cybersecurity Job Simulation](#) |
 | APT Breach & Risk Assessment | [Datacom Cybersecurity Job Simulation](#) |
 | IAM Developer (Tailored IAM Solutions) | [TATA Cybersecurity Job Simulation](#) |
-| Log Analysis (Defense Strategy) | [TryHackMe: Juicy Details] (https://github.com/Shirmali/TryHackMe-Juicy-Room) |
+| Log Analysis (Defense Strategy) | [TryHackMe Juicy Details](https://github.com/Shirmali/TryHackMe-Juicy-Room) |
 
 
 
