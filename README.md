@@ -1,12 +1,24 @@
-<h1> 👋 Hi, I’m Shirley Mali</h1>
-<p>She/Her</p>
-<h2>- 📫 How to reach me:</h2>
-[**LinkedIn**](https://www.linkedin.com/in/shirley-mali-a5449019b/)
+## 👋 Hi, I’m Shirley Mali (She/Her)
 
-Email: shirleymali95@gmail.com 
+---
 
-<h3> Objectives</h3>
-<p>Cybersecurity professional transitioning from tech sales to security operations, with a passion for threat analysis, incident response, and digital defense. This GitHub serves as a living portfolio of my journey—featuring hands-on labs, security investigations, and research projects that demonstrate both technical skill and a relentless drive to grow in the field. I'm committed to continuous learning and building solutions that protect people and systems.</p>
+### 📫 How to Reach Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shirley-mali-a5449019b/)  
+📧 **Email**: shirleymali95@gmail.com
+
+---
+
+### 🎯 Objectives
+
+Cybersecurity professional transitioning from tech sales to security operations, with a passion for threat analysis, incident response, and digital defense.
+
+This GitHub serves as a **living portfolio** of my journey—featuring hands-on labs, security investigations, and research projects that demonstrate both **technical skill** and a **relentless drive to grow** in the field.
+
+I'm committed to **continuous learning** and building solutions that protect people and systems.
+
+---
+
 
 ## 🧠 Skills
 
