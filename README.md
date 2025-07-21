@@ -31,6 +31,9 @@ I'm committed to **continuous learning** and building solutions that protect peo
 | APT Breach & Risk Assessment | [Datacom Cybersecurity Job Simulation](https://github.com/Shirmali/Datacom-Cyber-Security-Job-Simulation) |
 | IAM Developer (Tailored IAM Solutions) | [TATA Cybersecurity Job Simulation](#) |
 | Log Analysis (Defense Strategy) | [TryHackMe Juicy Details](https://github.com/Shirmali/TryHackMe-Juicy-Room) |
+| Protocol Analysis (Defense Strategy) | [TCP vs UDP](https://github.com/Shirmali/TCP-vs-UDP-Protocols/blob/main/README.md)) |
+
+
 
 
 
