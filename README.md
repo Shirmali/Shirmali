@@ -33,6 +33,7 @@ I'm committed to **continuous learning** and building solutions that protect peo
 | Log Analysis (Defense Strategy) | [TryHackMe Juicy Details](https://github.com/Shirmali/TryHackMe-Juicy-Room) |
 | Protocol Analysis (Defense Strategy) | [TCP vs UDP](https://github.com/Shirmali/TCP-vs-UDP-Protocols/blob/main/README.md) |
 | Prompt Injection (Offensive Strategy) | [TryHackMe Oracle9](https://github.com/Shirmali/Prompt-Injection/tree/main) |
+| Forensics (Recover Deleted Footage) | [Security Footage](https://github.com/Shirmali/Forensics-Security-Footage) |
 
 
 
