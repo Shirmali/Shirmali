@@ -24,16 +24,16 @@ I'm committed to **continuous learning** and building solutions that protect peo
 
 | Skill | Associated Project |
 |-------|--------------------|
-| Malware Attack (Respond, Analyze, Mitigate, Document) | [Telstra Cybersecurity Job Simulation](#) |
-| Phishing (Design, Interpret, Train) | [Mastercard Cybersecurity Job Simulation](https://github.com/Shirmali/Mastercard-Cybersecurity-Job-Simulation) |
-| Ransomware (Zero-Day, Recover Encrypted Files) | [AIG Cybersecurity Job Simulation](https://github.com/Shirmali/Zero-Day-Exploit-Bypassing-Ransomware-AIG/blob/main/README.md) |
-| Investigation (Social & Digital) | [ANZ Cybersecurity Job Simulation](#) |
-| APT Breach & Risk Assessment | [Datacom Cybersecurity Job Simulation](https://github.com/Shirmali/Datacom-Cyber-Security-Job-Simulation) |
-| IAM Developer (Tailored IAM Solutions) | [TATA Cybersecurity Job Simulation](#) |
-| Log Analysis (Defense Strategy) | [TryHackMe Juicy Details](https://github.com/Shirmali/TryHackMe-Juicy-Room) |
-| Protocol Analysis (Defense Strategy) | [TCP vs UDP](https://github.com/Shirmali/TCP-vs-UDP-Protocols/blob/main/README.md) |
-| Prompt Injection (Offensive Strategy) | [TryHackMe Oracle9](https://github.com/Shirmali/Prompt-Injection/tree/main) |
-| Forensics (Recover Deleted Footage) | [Security Footage](https://github.com/Shirmali/Forensics-Security-Footage) |
+|1. Malware Attack (Respond, Analyze, Mitigate, Document) | [Telstra Cybersecurity Job Simulation](#) |
+|2. Phishing (Design, Interpret, Train) | [Mastercard Cybersecurity Job Simulation](https://github.com/Shirmali/Mastercard-Cybersecurity-Job-Simulation) |
+|3. Ransomware (Zero-Day, Recover Encrypted Files) | [AIG Cybersecurity Job Simulation](https://github.com/Shirmali/Zero-Day-Exploit-Bypassing-Ransomware- AIG/blob/main/README.md) |
+|4. Investigation (Social & Digital) | [ANZ Cybersecurity Job Simulation](#) |
+|5. APT Breach & Risk Assessment | [Datacom Cybersecurity Job Simulation](https://github.com/Shirmali/Datacom-Cyber-Security-Job-Simulation) |
+|6. IAM Developer (Tailored IAM Solutions) | [TATA Cybersecurity Job Simulation](#) |
+|7. Log Analysis (Defense Strategy) | [TryHackMe Juicy Details](https://github.com/Shirmali/TryHackMe-Juicy-Room) |
+|8. Protocol Analysis (Defense Strategy) | [TCP vs UDP](https://github.com/Shirmali/TCP-vs-UDP-Protocols/blob/main/README.md) |
+|9. Prompt Injection (Offensive Strategy) | [TryHackMe Oracle9](https://github.com/Shirmali/Prompt-Injection/tree/main) |
+|10. Forensics (Recover Deleted Footage) | [Security Footage](https://github.com/Shirmali/Forensics-Security-Footage) |
 
 
 
