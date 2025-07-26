@@ -26,7 +26,7 @@ I'm committed to **continuous learning** and building solutions that protect peo
 |-------|--------------------|
 |1. Malware Attack (Respond, Analyze, Mitigate, Document) | [Telstra Cybersecurity Job Simulation](#) |
 |2. Phishing (Design, Interpret, Train) | [Mastercard Cybersecurity Job Simulation](https://github.com/Shirmali/Mastercard-Cybersecurity-Job-Simulation) |
-|3. Ransomware (Zero-Day, Recover Encrypted Files) | [AIG Cybersecurity Job Simulation](https://github.com/Shirmali/Zero-Day-Exploit-Bypassing-Ransomware- AIG/blob/main/README.md) |
+|3. Ransomware (Zero-Day, Recover Encrypted Files) | [AIG Cybersecurity Job Simulation](https://github.com/Shirmali/Zero-Day-Exploit-Bypassing-Ransomware-AIG) |
 |4. Investigation (Social & Digital) | [ANZ Cybersecurity Job Simulation](#) |
 |5. APT Breach & Risk Assessment | [Datacom Cybersecurity Job Simulation](https://github.com/Shirmali/Datacom-Cyber-Security-Job-Simulation) |
 |6. IAM Developer (Tailored IAM Solutions) | [TATA Cybersecurity Job Simulation](#) |
