@@ -36,6 +36,7 @@ I'm committed to **continuous learning** and building solutions that protect peo
 |10. Forensics (Recover Deleted Footage) | [Security Footage](https://github.com/Shirmali/Forensics-Security-Footage) |
 |11. Network Defense (Firewall Rules & Hardening) | [Firewall Configuration](https://github.com/Shirmali/Firewall-Configuration) |
 |12. Digital Forensics (eDiscovery & File Carving) | [Deleted File Recovery](https://github.com/Shirmali/Deleted-File-Recovery) |
+|13. Zero Trust (Access Control & Microsegmentation) | [Zero Trust](https://github.com/Shirmali/Zero-Trust) |
 
 
 
