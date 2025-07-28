@@ -37,6 +37,7 @@ I'm committed to **continuous learning** and building solutions that protect peo
 |11. Network Defense (Firewall Rules & Hardening) | [Firewall Configuration](https://github.com/Shirmali/Firewall-Configuration) |
 |12. Digital Forensics (eDiscovery & File Carving) | [Deleted File Recovery](https://github.com/Shirmali/Deleted-File-Recovery) |
 |13. Zero Trust (Access Control & Microsegmentation) | [Zero Trust](https://github.com/Shirmali/Zero-Trust) |
+|13. Forensics (Metadata & Artifact Discovery) | [Uncover Hidden Evidence](https://github.com/Shirmali/Uncover-Hidden-Evidence) |
 
 
 
